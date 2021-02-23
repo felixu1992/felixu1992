@@ -1,4 +1,4 @@
-### 👋 Hi! I'm a Software Engineer at ISYSCORE working on IoT paltform, a service that helps millions of device link to the network.
+👋 Hi! I'm a Software Engineer at ISYSCORE working on IoT paltform, a service that helps millions of device link to the network.
 
 <!--
 **felixu1992/felixu1992** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
