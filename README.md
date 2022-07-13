@@ -1,4 +1,4 @@
-👋 Hi! I'm a Software Engineer at ISYSCORE working on IoT paltform, a service that helps millions of device link to the network.     
+👋 Hi! I'm a Software Engineer at ISYSCORE working on IoT platform, a service that helps millions of device link to the network.     
 
 [about me](https://blogs.felixu.top/about/)     
 
